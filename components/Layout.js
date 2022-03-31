@@ -4,9 +4,9 @@ import { useRouter } from 'next/router';
 export default function Layout({ children, meta: pageMeta }) {
   const router = useRouter();
   const meta = {
-    title: `Lee's Myspace`,
+    title: `Jon's Resume`,
     description:
-      'A nostalgic look at what my MySpace profile (probably) looked like in 2009.',
+      'Please Hire Me',
     cardImage: '/og.png',
     ...pageMeta
   };
@@ -44,27 +44,16 @@ export default function Layout({ children, meta: pageMeta }) {
           <ul className="w-full space-x-3 text-white text-sm px-8 py-1 flex justify-center">
             <li>
               <a
-                href="https://leerob.io"
-                target="_blank"
-                rel="noopener noreferrer"
+                href="mailto:x@jonoftheamericas.com"
               >
-                Home
+                Email Me
               </a>
             </li>
-            <li>Browse</li>
-            <li>Search</li>
-            <li>Invite</li>
-            <li>Film</li>
-            <li>Mail</li>
-            <li className="hidden md:block">Blog</li>
-            <li className="hidden md:block">Favorites</li>
-            <li className="hidden md:block">Forum</li>
-            <li className="hidden md:block">Groups</li>
-            <li className="hidden md:block">Events</li>
-            <li className="hidden md:block">Videos</li>
-            <li className="hidden md:block">Music</li>
-            <li className="hidden md:block">Comedy</li>
-            <li className="hidden md:block">Classifieds</li>
+            <li className="hidden md:block">#BlackLivesMatter</li>
+            <li className="hidden md:block">#Javascript</li>
+            <li className="hidden md:block">#CleanCode</li>
+            <li className="hidden md:block">#Feminism</li>
+            <li className="hidden md:block">#TransLivesMatter</li>
           </ul>
         </nav>
         <main
@@ -75,24 +64,9 @@ export default function Layout({ children, meta: pageMeta }) {
         </main>
         <footer className="bg-gray-300">
           <ul className="w-full space-x-3 text-blue-800 underline text-sm px-8 py-1 flex justify-center">
-            <li>
-              <a
-                href="https://github.com/leerob/myspace"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Source
-              </a>
-            </li>
             <li>FAQ</li>
             <li>Terms</li>
             <li>Privacy</li>
-            <li className="hidden md:block">Safety Tips</li>
-            <li className="hidden md:block">Contact MySpace</li>
-            <li className="hidden md:block">Report Content</li>
-            <li className="hidden md:block">Promote</li>
-            <li className="hidden md:block">Advertise</li>
-            <li className="hidden md:block">Jobs</li>
           </ul>
         </footer>
       </div>
