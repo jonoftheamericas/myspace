@@ -421,7 +421,7 @@ export default function Home() {
                     <div className="bg-orange-200 text-orange-800 h-full p-1">
                       <div className="w-16 sm:w-32">
                         <h6 className="text-xs font-semibold text-center mb-2">
-                          Ford
+                          Nexient
                         </h6>
                         <img
                           src="/nexient.jpeg"
