@@ -54,6 +54,7 @@ export default function Layout({ children, meta: pageMeta }) {
             <li className="hidden md:block">#CleanCode</li>
             <li className="hidden md:block">#Feminism</li>
             <li className="hidden md:block">#TransLivesMatter</li>
+            <li><a href="https://www.linkedin.com/in/jlw89/">LinkedIn</a></li>
           </ul>
         </nav>
         <main
