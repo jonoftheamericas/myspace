@@ -302,7 +302,7 @@ export default function Home() {
             Jon's Employement History
           </h3>
           <p className="pl-2 pt-2 text-xs font-semibold">
-            Displaying 5 of 9 Roles
+            Displaying 5 of 8 Roles
           </p>
           <div className="flex">
             <table className="table-auto mt-2 text-sm w-full">
