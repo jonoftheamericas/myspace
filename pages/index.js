@@ -268,7 +268,7 @@ export default function Home() {
               />
             </div>
             <div className="w-16 sm:w-32">
-              <h5 className="text-xs font-semibold text-center">UMICH SPH, Sex Lab</h5>
+              <h5 className="text-xs font-semibold text-center">Sex Lab</h5>
               <img
                 src="/uofm.png"
                 alt="u of m"
@@ -276,7 +276,7 @@ export default function Home() {
               />
             </div>
             <div className="w-16 sm:w-32">
-              <h5 className="text-xs font-semibold text-center">Michigan AIDS Coalition</h5>
+              <h5 className="text-xs font-semibold text-center">M.A.C.</h5>
               <img
                 src="/mac.jpeg"
                 alt="MAC"
@@ -285,7 +285,7 @@ export default function Home() {
             </div>
 
             <div className="w-16 sm:w-32">
-              <h5 className="text-xs font-semibold text-center">Transgender Michigan</h5>
+              <h5 className="text-xs font-semibold text-center">TGMI</h5>
               <img
                 src="/tgm.jpeg"
                 alt="TGM"
