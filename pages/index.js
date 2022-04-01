@@ -58,6 +58,7 @@ export default function Home() {
               <p>The Americas</p>
               <p className="pt-8">Last Login:</p>
               <p>3/31/2022</p>
+              <img src="/bart.gif"></img>
             </div>
           </div>
           <div className="flex">
