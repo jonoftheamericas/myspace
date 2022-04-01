@@ -49,11 +49,13 @@ export default function Layout({ children, meta: pageMeta }) {
                 Email Me
               </a>
             </li>
+            <li className="hidden md:block">#Feminism</li>
+            <li className="hidden md:block">#Intersectionality</li>
             <li className="hidden md:block">#BlackLivesMatter</li>
+            <li className="hidden md:block">#TransLivesMatter</li>
+            <li className="hidden md:block">#StopAsianHate</li>
             <li className="hidden md:block">#Javascript</li>
             <li className="hidden md:block">#CleanCode</li>
-            <li className="hidden md:block">#Feminism</li>
-            <li className="hidden md:block">#TransLivesMatter</li>
             <li><a href="https://www.linkedin.com/in/jlw89/">LinkedIn</a></li>
           </ul>
         </nav>
