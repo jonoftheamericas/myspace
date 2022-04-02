@@ -212,12 +212,12 @@ export default function Home() {
           <div className="pl-2 pt-2">
             <h4 className="text-orange-600 font-semibold">About me:</h4>
             <p className="text-xs">
-            I'm looking for a role on an inclusive team that skews creative and is adamently anti racist and feminist. 
+            I'm looking for a role on an inclusive team that skews creative and is adamently feminist and anti-racist. 
             </p>
             <h4 className="mt-2 text-orange-600 font-semibold">
               Who I'd like to meet:
             </h4>
-            <p className="text-xs">Angela Davis</p>
+            <p className="text-xs">Angela Davis, Courtney Love, Boots Riley, Linus Torvalds, Britney Spears</p>
           </div>
         </section>
         <section className="text-sm">
