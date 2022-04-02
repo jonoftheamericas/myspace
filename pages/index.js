@@ -196,6 +196,18 @@ export default function Home() {
                     </div>
                   </td>
                 </tr>
+                <tr className="text-xs">
+                  <td className="pt-1 pl-1 pb-1 font-semibold">
+                    <div className="bg-blue-200 text-blue-800 h-full p-1">
+                      Quote:
+                    </div>
+                  </td>
+                  <td className="pt-1 pl-1 pb-1">
+                    <div className="bg-blue-100 h-full p-1">
+                    “Ideas improve. The meaning of words participates in the improvement. Plagiarism is necessary. Progress implies it. It embraces an author's phrase, makes use of his expressions, erases a false idea, and replaces it with the right idea. ” ― Guy Debord (or whoever)
+                    </div>
+                  </td>
+                </tr>
               </tbody>
             </table>
           </div>
