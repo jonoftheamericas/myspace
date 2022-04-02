@@ -452,6 +452,33 @@ export default function Home() {
                     </div>
                   </td>
                 </tr>
+
+                <tr className="text-xs">
+                  <td className="pt-1 pl-1 font-semibold">
+                    <div className="bg-orange-200 text-orange-800 h-full p-1">
+                      <div className="w-16 sm:w-32">
+                        <h6 className="text-xs font-semibold text-center mb-2">
+                          Other Life Experience 
+                        </h6>
+                        <img
+                          src="/bart.gif"
+                          alt="me"
+                          className="object-cover"
+                        />
+                      </div>
+                    </div>
+                  </td>
+                  <td className="pt-1 pl-1 w-full">
+                    <div className="bg-orange-100 h-full p-1">
+                      <p className="text-xs font-semibold text-left mb-2">
+                        1989 - present
+                      </p>
+                      <p>
+                        I have been coding since about 1995, I have had photographs published in Vogue and Rolling Stone (the crappy back ad part, but it was a goal I achevived as a teen), I have won <a href="https://detroit.cbslocal.com/2015/06/16/hack4detroit-winner-creates-family-friendly-bicycling-app/">hack-a-thons solo (3rd place)</a>, I worked for Transgender Michigan, and Rachel Crandall (founder of Transgender Day of Visibility), I did HIV testing and counseling, I have done public health research to largely benefit the queer community in regards to PREP, I have toured with multiple bands, I have worked on a few hollywood films in a very minor way (Whip It! and Youth in Revolt), I have traveled the world, I have been mugged on 3 continents, I still skateboard and take pictures, and I have lived a beautiful life and only want to make the world a better place. 
+                      </p>
+                    </div>
+                  </td>
+                </tr>
                 
 
              
