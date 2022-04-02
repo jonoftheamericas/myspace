@@ -70,6 +70,8 @@ export default function Layout({ children, meta: pageMeta }) {
             <li>FAQ</li>
             <li>Terms</li>
             <li>Privacy</li>
+            <li>LOL</li>
+
           </ul>
         </footer>
       </div>
