@@ -57,7 +57,7 @@ export default function Home() {
               <p>101 years old</p>
               <p>The Americas</p>
               <p className="pt-8">Last Login:</p>
-              <p>3/31/2022</p>
+              <p>4/02/2022</p>
             </div>
           </div>
           <div className="flex">
