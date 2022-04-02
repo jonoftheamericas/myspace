@@ -127,7 +127,7 @@ export default function Home() {
                     </div>
                   </td>
                   <td className="pt-1 pl-1 ">
-                    <div className="bg-blue-100 h-full p-1">Emma Goldman</div>
+                    <div className="bg-blue-100 h-full p-1"><a href="https://jonwerber.github.io/baldwin-gf/">James Baldwin</a>, Phillis Wheatley, Emma Goldman</div>
                   </td>
                 </tr>
               </tbody>
@@ -328,7 +328,7 @@ export default function Home() {
                       <p className="text-xs font-semibold text-left mb-2">
                         October 2020 - Present
                       </p>
-                      <p>Worked on a team in charge of standardizing Ford's log in system across all properties and markets. Worked daily in Typscript and React, with some light Ruby and Java Spring on a rare occasion. We followed agile methodologies, test driven development, and clean code</p>
+                      <p>Worked on a team in charge of standardizing Ford's log in system across all properties and markets. Worked daily in Typscript and React, with some light Ruby and Java (Spring Boot) on a rare occasion. We followed agile methodologies, test driven development, and clean code</p>
                     </div>
                   </td>
                 </tr>

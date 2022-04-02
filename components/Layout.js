@@ -67,10 +67,8 @@ export default function Layout({ children, meta: pageMeta }) {
         </main>
         <footer className="bg-gray-300">
           <ul className="w-full space-x-3 text-blue-800 underline text-sm px-8 py-1 flex justify-center">
-            <li>FAQ</li>
-            <li>Terms</li>
-            <li>Privacy</li>
-            <li>LOL</li>
+            <li><a href="https://jonwerber.github.io/baldwin-gf/"> Quotes by James Baldwin (2016)</a></li>
+
 
           </ul>
         </footer>
