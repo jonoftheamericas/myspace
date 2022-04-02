@@ -229,7 +229,7 @@ export default function Home() {
             <h4 className="mt-2 text-orange-600 font-semibold">
               Who I'd like to meet:
             </h4>
-            <p className="text-xs">Angela Davis, Courtney Love, Boots Riley, Linus Torvalds, Britney Spears</p>
+            <p className="text-xs">Angela Davis, Courtney Love, Boots Riley, Linus Torvalds, Britney Spears, Stromae</p>
           </div>
         </section>
         <section className="text-sm">
