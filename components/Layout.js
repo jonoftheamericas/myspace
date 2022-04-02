@@ -68,6 +68,10 @@ export default function Layout({ children, meta: pageMeta }) {
         <footer className="bg-gray-300">
           <ul className="w-full space-x-3 text-blue-800 underline text-sm px-8 py-1 flex justify-center">
             <li><a href="https://jonwerber.github.io/baldwin-gf/"> Quotes by James Baldwin (2016)</a></li>
+            <li><a href="https://soundcloud.com/imagists/sets/deus-vult-abridged"> My old band's record</a></li>
+            <li><a href="https://justapipe.blogspot.com/2009/02/modern-day-virgins.html">A weird blog about my old art</a></li>
+            <li><a href="https://soundcloud.com/jonathanwerber">Music from time in Guatemala</a></li>
+            <li><a href="https://www.threadless.com/@Jon%20Werber">T-shirt designs (~2005)</a></li>
 
 
           </ul>
