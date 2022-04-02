@@ -127,7 +127,7 @@ export default function Home() {
                     </div>
                   </td>
                   <td className="pt-1 pl-1 ">
-                    <div className="bg-blue-100 h-full p-1"><a href="https://jonwerber.github.io/baldwin-gf/">James Baldwin</a>, Phillis Wheatley, Emma Goldman</div>
+                    <div className="bg-blue-100 h-full p-1"><a href="https://jonwerber.github.io/baldwin-gf/">James Baldwin</a>, Phillis Wheatley, Emma Goldman, Hedy Lamarr</div>
                   </td>
                 </tr>
               </tbody>
