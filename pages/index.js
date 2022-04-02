@@ -113,6 +113,18 @@ export default function Home() {
                 <tr className="text-xs">
                   <td className="pt-1 pl-1 font-semibold">
                     <div className="bg-blue-200 text-blue-800 h-full p-1">
+                      Languages
+                    </div>
+                  </td>
+                  <td className="pt-1 pl-1 ">
+                    <div className="bg-blue-100 h-full p-1">
+                      English (Native), Spanish (poor), French (better read than said)
+                    </div>
+                  </td>
+                </tr>
+                <tr className="text-xs">
+                  <td className="pt-1 pl-1 font-semibold">
+                    <div className="bg-blue-200 text-blue-800 h-full p-1">
                       Creative
                     </div>
                   </td>
