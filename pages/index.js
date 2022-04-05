@@ -350,7 +350,7 @@ export default function Home() {
                   <td className="pt-1 pl-1 w-full">
                     <div className="bg-orange-100 h-full p-1">
                       <p className="text-xs font-semibold text-left mb-2">
-                        October 2020 - Present
+                        October 2020 - April 2022
                       </p>
                       <p>Worked on a team in charge of standardizing Ford's log in system across all properties and markets. Worked daily in Typscript and React, with some light Ruby and Java (Spring Boot) on a rare occasion. We followed agile methodologies, test driven development, and clean code</p>
                     </div>
