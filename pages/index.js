@@ -161,7 +161,7 @@ export default function Home() {
                     </div>
                   </td>
                   <td className="pt-1 pl-1 ">
-                    <div className="bg-blue-100 h-full p-1">Looking for work, but currently contracted to Ford</div>
+                    <div className="bg-blue-100 h-full p-1">mas o menos</div>
                   </td>
                 </tr>
                 <tr className="text-xs">
@@ -228,7 +228,7 @@ export default function Home() {
       <div className="w-full md:w-1/2 p-8 pt-0 md:pt-8">
         <section className="text-sm">
           <div className="border-black p-6 border-solid border-2 font-medium flex justify-center text-lg">
-           <a href="https://www.paypal.com/donate/?business=5CFMT8XG3836U&no_recurring=0&item_name=Fund+my+film%2C+please%2C+lol&currency_code=USD"> Jon is looking for funding for his first film. </a>
+           <a href="https://www.paypal.com/donate/?business=5CFMT8XG3836U&no_recurring=0&item_name=Fund+my+film%2C+please%2C+lol&currency_code=USD"> Looking for funding for my first film. </a>
           </div>
           <h3 className="mt-4 bg-orange-200 text-orange-700 font-semibold pl-4">
             Jon's Blurbs
