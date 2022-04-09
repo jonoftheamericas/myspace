@@ -228,7 +228,7 @@ export default function Home() {
       <div className="w-full md:w-1/2 p-8 pt-0 md:pt-8">
         <section className="text-sm">
           <div className="border-black p-6 border-solid border-2 font-medium flex justify-center text-lg">
-            Jon is looking for a creative coding role.
+            Jon is looking for funding for his first film. 
           </div>
           <h3 className="mt-4 bg-orange-200 text-orange-700 font-semibold pl-4">
             Jon's Blurbs
@@ -236,7 +236,7 @@ export default function Home() {
           <div className="pl-2 pt-2">
             <h4 className="text-orange-600 font-semibold">About me:</h4>
             <p className="text-xs">
-            I'm looking for a role on an inclusive team that skews creative and is adamently feminist and anti-racist. 
+            I'm looking for financers for a film that is adamently feminist and anti-racist. 
             </p>
             <h4 className="mt-2 text-orange-600 font-semibold">
               Who I'd like to meet:
