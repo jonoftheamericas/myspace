@@ -57,7 +57,7 @@ export default function Home() {
               <p>101 years old</p>
               <p>The Americas</p>
               <p className="pt-8">Last Login:</p>
-              <p>4/02/2022</p>
+              <p>5/03/2022</p>
             </div>
           </div>
           <div className="flex">
@@ -94,7 +94,7 @@ export default function Home() {
                   </td>
                   <td className="pt-1 pl-1 ">
                     <div className="bg-blue-100 h-full p-1">
-                      Javascript, Typescript, React, Redux, Vue, Vuex
+                      Javascript, Typescript, React, Redux, Next.js Vue, Vuex
                     </div>
                   </td>
                 </tr>
@@ -106,7 +106,7 @@ export default function Home() {
                   </td>
                   <td className="pt-1 pl-1 ">
                     <div className="bg-blue-100 h-full p-1">
-                      Agile, Scrum, Kanban, TDD, BDD
+                      Agile, Scrum, Kanban, TDD, BDD, Pair Programming
                     </div>
                   </td>
                 </tr>
@@ -228,7 +228,7 @@ export default function Home() {
       <div className="w-full md:w-1/2 p-8 pt-0 md:pt-8">
         <section className="text-sm">
           <div className="border-black p-6 border-solid border-2 font-medium flex justify-center text-lg">
-           <a href="https://www.paypal.com/donate/?business=5CFMT8XG3836U&no_recurring=0&item_name=Fund+my+film%2C+please%2C+lol&currency_code=USD"> Looking for funding for my first film. </a>
+            Looking for work.
           </div>
           <h3 className="mt-4 bg-orange-200 text-orange-700 font-semibold pl-4">
             Jon's Blurbs
@@ -236,7 +236,7 @@ export default function Home() {
           <div className="pl-2 pt-2">
             <h4 className="text-orange-600 font-semibold">About me:</h4>
             <p className="text-xs">
-            I'm looking for financers for a film that is adamently feminist and anti-racist. <a href="https://www.paypal.com/donate/?business=5CFMT8XG3836U&no_recurring=0&item_name=Fund+my+film%2C+please%2C+lol&currency_code=USD"> Click here to help produce </a>
+            I'm looking for a role helping people.
             </p>
             <h4 className="mt-2 text-orange-600 font-semibold">
               Who I'd like to meet:
